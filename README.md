@@ -9,6 +9,8 @@
 * [Use live on Heroku] (#Heroku)
 
 ## Challenege
+A web-based First-Aid database where uses can keep track of what first-aid was administered and to whom.
+
 ## <a name="Install">Installation</a>
 * To clone the repo
 ```shell
