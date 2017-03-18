@@ -1,6 +1,6 @@
 # First Aid
 #### Technologies: ASP, VBScript, HTML, CSS, MS SQL Server
-### [All Saints' Catholic Academy] (http://www.allsaints.notts.sch.uk) - Built on 05/12/2012
+### [All Saints' Catholic Academy](http://www.allsaints.notts.sch.uk) - Built on 05/12/2012
 
 ## Index
 * [Installation] (#Install)
