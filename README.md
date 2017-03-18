@@ -3,9 +3,9 @@
 ### [All Saints' Catholic Academy](http://www.allsaints.notts.sch.uk) - Built on 05/12/2012
 
 ## Index
-* [Installation] (#Install)
-* [Usage] (#Usage)
-* [Screen Shots] (#Shots)
+* [Installation](#Install)
+* [Usage](#Usage)
+* [Screen Shots](#Shots)
 
 ## Challenege
 A web-based First-Aid database where uses can keep track of what first-aid was administered and to whom.
